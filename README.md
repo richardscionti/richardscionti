@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @richardscionti
 - 👀 I’m interested in AI, python, text analytics
-- 🌱 I’m currently learning llama code
+- 🌱 I’m currently learning code llama
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
